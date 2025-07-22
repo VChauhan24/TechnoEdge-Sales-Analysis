@@ -22,7 +22,7 @@ This Power BI dashboard analyzes the sales performance of TechnoEdge using a sam
 
 ## 📁 Files Included
 
-- `TechnoEdge_Sales_Analysis.pbix` – Complete Power BI file
+- `Technoedge Sales Analysis Report.pbix` – Complete Power BI file
 - `Dashboard overview.png` – Screenshot of the dashboard
 
 ---
